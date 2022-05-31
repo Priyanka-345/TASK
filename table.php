@@ -4,7 +4,7 @@
         
         
         <center><h1 >Signin Form</h1></center><br><br>
-        <form action="submit1.php" method="POST">
+        <form action="submit.php" method="POST">
         <table align="center">
             <tr>
                 <td>username</td>
@@ -25,9 +25,9 @@
                 </td>
             </tr>
             <tr>
-                <td>rollnumber</td>
+                <td>id</td>
                 <td>
-                    <input type="text" name="rollnumber">
+                    <input type="text" name="id">
                 </td>
             </tr>
             <tr>
